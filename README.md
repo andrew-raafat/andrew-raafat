@@ -7,7 +7,6 @@
 <h3 align="left">Glad to see you here!</h3>
 
 I'm a Student at Faculty of Computers and Artificial Intelligence 🎓 Cairo University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and use them to solve real-life problems ✨. Apart from that I also love to guide and help beginners 👨🏻‍💻. <br> I'm currently into Web Development 🕸️.
-
 <img align="right" alt="Coding" width="400" src="https://github.com/andrew-raafat/andrew-raafat/assets/83042751/b6a266c6-33f2-42ee-ab9a-d26989cd1c07">
 
 
